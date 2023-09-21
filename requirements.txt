@@ -11,6 +11,7 @@ seaborn
 crtoolbox
 ipywidgets
 pandas
-#pyvistaqt
+pyvistaqt
 ndslib
 ipykernel
+pyvista
